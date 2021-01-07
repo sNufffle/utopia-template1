@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/utopia-template1/static/css/main.c058603d.chunk.css",
+    "main.js": "/utopia-template1/static/js/main.d27ed733.chunk.js",
+    "main.js.map": "/utopia-template1/static/js/main.d27ed733.chunk.js.map",
+    "runtime-main.js": "/utopia-template1/static/js/runtime-main.8ae49161.js",
+    "runtime-main.js.map": "/utopia-template1/static/js/runtime-main.8ae49161.js.map",
+    "static/css/2.427e39f9.chunk.css": "/utopia-template1/static/css/2.427e39f9.chunk.css",
+    "static/js/2.e5794ab6.chunk.js": "/utopia-template1/static/js/2.e5794ab6.chunk.js",
+    "static/js/2.e5794ab6.chunk.js.map": "/utopia-template1/static/js/2.e5794ab6.chunk.js.map",
+    "static/js/3.22c791cc.chunk.js": "/utopia-template1/static/js/3.22c791cc.chunk.js",
+    "static/js/3.22c791cc.chunk.js.map": "/utopia-template1/static/js/3.22c791cc.chunk.js.map",
+    "index.html": "/utopia-template1/index.html",
+    "static/css/2.427e39f9.chunk.css.map": "/utopia-template1/static/css/2.427e39f9.chunk.css.map",
+    "static/css/main.c058603d.chunk.css.map": "/utopia-template1/static/css/main.c058603d.chunk.css.map",
+    "static/js/2.e5794ab6.chunk.js.LICENSE.txt": "/utopia-template1/static/js/2.e5794ab6.chunk.js.LICENSE.txt",
+    "static/media/agacev.46068aaf.jpg": "/utopia-template1/static/media/agacev.46068aaf.jpg",
+    "static/media/all.css": "/utopia-template1/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/App.css": "/utopia-template1/static/media/subscribe3.29476582.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae49161.js",
+    "static/css/2.427e39f9.chunk.css",
+    "static/js/2.e5794ab6.chunk.js",
+    "static/css/main.c058603d.chunk.css",
+    "static/js/main.d27ed733.chunk.js"
+  ]
+}
